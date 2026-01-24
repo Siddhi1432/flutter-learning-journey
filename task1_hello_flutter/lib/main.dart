@@ -1,3 +1,8 @@
+void greet(String name) {
+  print("Hello $name, Welcome to Flutter");
+}
+
 void main() {
-  print("Hello Flutter!");
+  var name = "Siddhi";
+  greet(name);
 }

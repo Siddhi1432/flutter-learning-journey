@@ -7,7 +7,7 @@ This repository documents my step-by-step journey of learning Flutter &amp; Dart
 - Android
 
 ## Progress
-- [ ] Task 1: Flutter & Dart Basics
+- [✅] Task 1: Flutter & Dart Basics
 - [ ] Task 2: Stateless Widgets
 - [ ] Task 3: Statefull Widgets
 - [ ] Task 4: Layouts & UI
